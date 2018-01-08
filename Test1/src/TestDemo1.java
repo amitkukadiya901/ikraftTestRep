@@ -4,6 +4,8 @@ public class TestDemo1 {
 		System.out.println("A");
 		System.out.println("B");
 		System.out.println("C");
+		System.out.println("E");
 		System.out.println("D");
+		System.out.println("Z");
 	}
 }
