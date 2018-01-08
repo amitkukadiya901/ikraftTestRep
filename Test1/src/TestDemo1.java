@@ -10,7 +10,13 @@ public class TestDemo1 {
 		System.out.println("Z");
 		System.out.println("Z");
 		System.out.println("Z");
+		System.out.println("B");
 		System.out.println("Z");
 		System.out.println("Z");
+		System.out.println("Z");
+		System.out.println("Z");
+		System.out.println("B");
+		System.out.println("B");
+		System.out.println("B");
 	}
 }
