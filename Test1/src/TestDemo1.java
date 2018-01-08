@@ -18,5 +18,7 @@ public class TestDemo1 {
 		System.out.println("B");
 		System.out.println("B");
 		System.out.println("B");
+		System.out.println("C");
+		System.out.println("C");
 	}
 }
