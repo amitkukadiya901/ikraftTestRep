@@ -7,5 +7,6 @@ public class TestDemo1 {
 		System.out.println("E");
 		System.out.println("D");
 		System.out.println("Z");
+		System.out.println("Z");
 	}
 }
