@@ -6,10 +6,6 @@ public class TestDemo1 {
 		System.out.println("Test Start3");
 		System.out.println("Test Start4");
 		System.out.println("Test End2");
-		System.out.println("A");
-		System.out.println("D");
-		System.out.println("F");
-		System.out.println("H");
 		System.out.println("Test End2");
 		System.out.println("Test End3");
 		System.out.println("Test End4");
@@ -24,5 +20,9 @@ public class TestDemo1 {
 		System.out.println("Test End14");
 		System.out.println("Test End15");
 		System.out.println("Test End16");
+		System.out.println("Test End17");
+		System.out.println("Test End18");
+		System.out.println("Test End19");
+		System.out.println("Test End20");
 	}
 }
