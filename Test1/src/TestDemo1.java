@@ -6,10 +6,7 @@ public class TestDemo1 {
 		System.out.println("Test Start3");
 		System.out.println("Test Start4");
 		System.out.println("Test End2");
-		System.out.println("A");
-		System.out.println("D");
-		System.out.println("F");
-		System.out.println("H");
+		System.out.println("Test End2");
 		System.out.println("Test End2");
 		System.out.println("Test End3");
 		System.out.println("Test End4");
